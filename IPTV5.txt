@@ -1,6 +1,4 @@
 央视直播,#genre#
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 CCTV-1高清,http://192.168.68.5:4022/rtp/239.253.92.83:8012
 CCTV-2高清,http://192.168.68.5:4022/rtp/239.253.92.190:6065
 CCTV-3高清,http://192.168.68.5:4022/rtp/239.253.92.191:6057
@@ -16,6 +14,8 @@ CCTV-11,http://192.168.68.5:4022/rtp/239.253.92.11:8006
 CCTV-12高清,http://192.168.68.5:4022/rtp/239.253.92.197:6062
 CCTV-13,http://192.168.68.5:4022/rtp/239.253.92.13:8008
 CCTV-14高清,http://192.168.68.5:4022/rtp/239.253.92.198:6063
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 卫视,#genre#
 北京卫视高清,http://192.168.68.5:4022/rtp/239.253.92.87:8014
 河北卫视高清,http://192.168.68.5:4022/rtp/239.253.92.154:6011
